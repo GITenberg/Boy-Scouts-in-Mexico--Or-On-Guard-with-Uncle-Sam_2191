@@ -1,0 +1,31 @@
+_repo: Boy-Scouts-in-Mexico--Or-On-Guard-with-Uncle-Sam_2191
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ralphson, G. Harvey (George Harvey)
+    aliases:
+    - Ralphson, George H.
+    - Ralphson, George Harvey
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '849'
+    url: http://www.gutenberg.org/2009/agents/849
+    wikipedia: http://en.wikipedia.org/wiki/George_Harvey_Ralphson
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Mexico -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- GITenberg
+title: Boy Scouts in Mexico; Or, On Guard with Uncle Sam
+url: http://www.gutenberg.org/ebooks/2191
